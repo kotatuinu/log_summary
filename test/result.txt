@@ -1,0 +1,8 @@
+10.2.3.4	2005/04/18 00:10:47	10.2.3.4 - - [18/Apr/2005:00:10:47 +0900] "GET / HTTP/1.1" 200 854 "-" "Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)"
+10.2.3.4	2005/04/18 00:10:48	10.2.3.4 - - [18/Apr/2005:00:10:48 +0900] "GET /style.css HTTP/1.1" 200 102 "http://www.geekpage.jp/" "Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)"
+10.2.3.4	2005/04/18 00:10:49	10.2.3.4 - - [18/Apr/2005:00:10:49 +0900] "GET /img/title.png HTTP/1.1" 304 - "http://www.geekpage.jp/" "Mozilla/4.0 (compatible; MSIE 5.5; Window
+127.0.0.1	2000/10/10 13:55:36	127.0.0.1 - frank [10/Oct/2000:13:55:36 -0700] "GET /apache_pb.gif HTTP/1.0" 200 2326
+127.0.0.1	2000/10/12 13:55:35	127.0.0.1 - frank [12/Oct/2000:13:55:35 -0700] "GET /apache_pb.gif HTTP/1.0" 200 2326
+127.0.0.1	2000/10/13 13:55:36	127.0.0.1 - frank [13/Oct/2000:13:55:36 -0700] "GET /apache_pb.gif HTTP/1.0" 200 2326
+192.168.0.1	2008/07/13 06:44:38	192.168.0.1 - - [13/Jul/2008:06:44:38 +0900] "GET /wordpress/?p=167 HTTP/1.1" 200 24314 "http://www.uetyi.mydns.jp/wordpress/" "Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9) Gecko/2008052906 Firefox/3.0"
+210.233.9.2	2006/08/07 10:45:40	210.233.9.2 - - [07/Aug/2006:10:45:40 +0900] "GET /img/mtdc.gif HTTP/1.1" 200 1242 "http://mermaid-tavern.com/" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
